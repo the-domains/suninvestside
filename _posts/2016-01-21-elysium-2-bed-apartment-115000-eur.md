@@ -6,23 +6,25 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-21T12:33:21.454Z'
-dateModified: '2016-01-21T12:33:08.828Z'
+datePublished: '2016-01-21T12:37:57.737Z'
+dateModified: '2016-01-21T12:37:52.377Z'
 title: ELYSIUM 2 BED APARTMENT 115.000 Eur.
 author: []
+sourcePath: _posts/2016-01-21-elysium-2-bed-apartment-115000-eur.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-01-21-elysium-2-bed-apartment-115000-eur.md
-published: true
 url: elysium-2-bed-apartment-115000-eur/index.html
 _type: Article
 
 ---
-### PROPERTY DESCRIPTION
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/678ce508-7191-4f92-9638-b918fa50f08b.jpg)
+
+### ELYSIUM     PROPERTY DESCRIPTION
 
 ### **INSPIRED BY A MEDITERRANEAN SPIRIT**
 
@@ -61,7 +63,6 @@ The gardens of Elysium are surely one of the most outstanding features of this u
 The retaining walls will be covered by charming purple and white Bougainvillea flowers and will provide a colourful contrast against the contemporary facades. A beautiful orchard of mixed fruit trees including orange, lemon & peach will enhance the Mediterranean feeling. The Elysium Café will have a stylish terrace overlooking the pool where you can enjoy your cocktails. Parking will be near the two main entrances providing plenty of spaces for everyone.
 
 ### CONTACT US FOR MORE INFORMATION.
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/678ce508-7191-4f92-9638-b918fa50f08b.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/552bfe31-cb65-4d29-adac-cdcc34da2180.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/09260119-2f91-47fa-8914-1ec8b812f550.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/8e15aeeb-68f0-4005-8b11-9854dfdcedf3.jpg)

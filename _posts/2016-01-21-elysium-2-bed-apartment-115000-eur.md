@@ -1,13 +1,13 @@
 ---
-inFeed: true
+inFeed: false
 hasPage: true
 inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-21T12:37:58.010Z'
-dateModified: '2016-01-21T12:37:52.377Z'
+datePublished: '2016-01-21T12:42:56.463Z'
+dateModified: '2016-01-21T12:42:51.046Z'
 title: ELYSIUM 2 BED APARTMENT 115.000 Eur.
 author: []
 sourcePath: _posts/2016-01-21-elysium-2-bed-apartment-115000-eur.md
@@ -19,7 +19,7 @@ publisher:
   url: null
   favicon: null
 url: elysium-2-bed-apartment-115000-eur/index.html
-_type: Article
+_type: WebPage
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/678ce508-7191-4f92-9638-b918fa50f08b.jpg)

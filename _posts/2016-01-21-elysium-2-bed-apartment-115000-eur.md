@@ -6,7 +6,7 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-24T15:35:17.152Z'
+datePublished: '2016-01-24T15:35:17.290Z'
 dateModified: '2016-01-24T15:35:11.423Z'
 title: ELYSIUM APARTMENTS
 author: []

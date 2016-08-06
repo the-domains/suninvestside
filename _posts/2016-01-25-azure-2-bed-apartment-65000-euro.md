@@ -1,25 +1,23 @@
 ---
-inFeed: false
+inFeed: true
 hasPage: true
-inNav: true
+inNav: false
 inLanguage: null
-starred: false
 keywords: []
-description: 2 bed ground floor in very good location
-datePublished: '2016-01-25T14:43:48.528Z'
-dateModified: '2016-01-25T14:43:38.536Z'
+description: >-
+  This ground floor apartment is located in the residential part of Side, close
+  to beach, shops and lively restaurants.
+datePublished: '2016-08-06T10:32:06.899Z'
+dateModified: '2016-08-06T09:40:04.772Z'
 title: Azure 2 bed apartment 65.000 Euro.
 author: []
-authors: []
-publisher:
-  name: null
-  domain: null
-  url: null
-  favicon: null
 sourcePath: _posts/2016-01-25-azure-2-bed-apartment-65000-euro.md
-published: true
+authors: []
+publisher: {}
+via: {}
+starred: false
 url: azure-2-bed-apartment-65000-euro/index.html
-_type: WebPage
+_type: Article
 
 ---
 # Azure 2 bed apartment 65.000 Euro.

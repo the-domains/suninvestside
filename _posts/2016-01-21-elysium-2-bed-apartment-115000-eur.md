@@ -1,31 +1,34 @@
 ---
-inFeed: false
+inFeed: true
 hasPage: true
-inNav: true
+inNav: false
 inLanguage: null
-starred: false
 keywords: []
-description: ''
-datePublished: '2016-01-24T15:35:17.319Z'
-dateModified: '2016-01-24T15:35:11.423Z'
+description: >-
+  Elysium, which is located right next to our recently and successfully
+  completed project Inspirit, is designed with an aspiration for excellence.
+  Planned on a large plot of land at 14,400 m² with only 22% building density
+  utilized out of the permitted 25%, the project evokes a feeling of
+  spaciousness. The landscaped gardens seamlessly blend with the green natural
+  surroundings. The project encompasses only 40 apartments and 8 luxury
+  semi-detached villas spread across 9 south facing low-rise blocks.
+datePublished: '2016-08-06T09:48:39.919Z'
+dateModified: '2016-08-06T09:39:32.184Z'
 title: ELYSIUM APARTMENTS
 author: []
 sourcePath: _posts/2016-01-21-elysium-2-bed-apartment-115000-eur.md
-published: true
 authors: []
-publisher:
-  name: null
-  domain: null
-  url: null
-  favicon: null
+publisher: {}
+via: {}
+starred: false
 url: elysium-2-bed-apartment-115000-eur/index.html
-_type: WebPage
+_type: Article
 
 ---
 # ELYSIUM APARTMENTS
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/678ce508-7191-4f92-9638-b918fa50f08b.jpg)
 
-### ELYSIUM     PROPERTY DESCRIPTION
+### ELYSIUM PROPERTY DESCRIPTION
 
 ### **INSPIRED BY A MEDITERRANEAN SPIRIT**
 

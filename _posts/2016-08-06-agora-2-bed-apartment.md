@@ -5,22 +5,22 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 2-bedroom apartment with 2 bathrooms of 99.5 m²
-datePublished: '2016-08-06T09:31:58.366Z'
-dateModified: '2016-08-06T09:31:39.460Z'
+datePublished: '2016-08-06T09:42:22.518Z'
+dateModified: '2016-08-06T09:41:56.985Z'
 title: ''
 author: []
 via: {}
+sourcePath: _posts/2016-08-06-agora-2-bed-apartment.md
 authors: []
 publisher: {}
 starred: false
-sourcePath: _posts/2016-08-06-agora-2-bed-apartment.md
 url: agora-2-bed-apartment/index.html
 _type: Article
 
 ---
 # BARGAIN: 2 bed apartment like new: 69.000 Euros.
 
-Stylish living in an excellent neighbourhood...
+Stylish living in an excellent neighborhood...
 
 2-bedroom apartment with 2 bathrooms of 99.5 m²
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e23c0d02-880c-404b-b518-a13b3b898de2.jpg)

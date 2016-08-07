@@ -1,20 +1,4 @@
-name: suninvestside
-favicon: null
-layout_spectrum: 0.49833
 typography_spectrum: 0.29154
-title: 'Your real estate partner in the region of Side, Turkey.'
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#000000'
@@ -26,4 +10,24 @@ color:
   lightness: 0.30019882367923856
   saturation: 0.3661560630425811
   rhythmicContrast: 0.7408693199977279
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.49833
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: suninvestside
+cta:
+  domain: null
+  bucket: null
+  version: null
+navigation:
+  - name: Who are we?
+    id: 3d119fd0-5e29-4b43-a741-54887c17c2ff
+    type: content
+favicon: null
+title: 'Your real estate partner in the region of Side, Turkey.'
 purpose: []

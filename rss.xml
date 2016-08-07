@@ -4,7 +4,7 @@
         <description><![CDATA[Your real estate partner in the region of Side, Turkey.]]></description>
         <link>https://thegrid.ai/suninvestside/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 07 Aug 2016 10:58:45 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 07 Aug 2016 11:03:19 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/suninvestside/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Sun Invest Side]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/suninvestside/who-are-we/index.html</link>
             <guid isPermaLink="false">3d119fd0-5e29-4b43-a741-54887c17c2ff</guid>
             <pubDate>Sun, 07 Aug 2016 10:31:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Agora 2 bed apartment]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/e23c0d02-880c-404b-b518-a13b3b898de2.jpg">]]></description>
+            <link>https://thegrid.ai/suninvestside/agora-2-bed-apartment/index.html</link>
+            <guid isPermaLink="false">79f34846-d120-4f99-a0b1-33bb7a907ae6</guid>
+            <pubDate>Sun, 07 Aug 2016 11:03:17 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[ELYSIUM APARTMENTS]]></title>
@@ -26,13 +33,6 @@
             <link>https://thegrid.ai/suninvestside/side-pearl-of-the-mediterranean/index.html</link>
             <guid isPermaLink="false">4b6c7588-4fe0-4e52-953d-bf9595c70b4a</guid>
             <pubDate>Sun, 07 Aug 2016 10:37:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Agora 2 bed apartment]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/e23c0d02-880c-404b-b518-a13b3b898de2.jpg">]]></description>
-            <link>https://thegrid.ai/suninvestside/agora-2-bed-apartment/index.html</link>
-            <guid isPermaLink="false">79f34846-d120-4f99-a0b1-33bb7a907ae6</guid>
-            <pubDate>Sat, 06 Aug 2016 09:42:22 GMT</pubDate>
         </item>
     </channel>
 </rss>

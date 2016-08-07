@@ -3,21 +3,17 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: false
 keywords: []
-description: ''
-datePublished: '2016-01-21T08:16:57.324Z'
-dateModified: '2016-01-21T08:16:42.545Z'
-title: 'Side, pearl of the Mediterranean.'
+description: The region of Side.
+datePublished: '2016-08-07T10:37:29.156Z'
+dateModified: '2016-08-07T10:37:27.888Z'
+title: ''
 author: []
 authors: []
-publisher:
-  name: null
-  domain: null
-  url: null
-  favicon: null
+publisher: {}
 sourcePath: _posts/2016-01-21-side-pearl-of-the-mediterranean.md
-published: true
+via: {}
+starred: false
 url: side-pearl-of-the-mediterranean/index.html
 _type: Article
 

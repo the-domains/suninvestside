@@ -6,24 +6,23 @@ description: >-
   utilized out of the permitted 25%, the project evokes a feeling of
   spaciousness. The landscaped gardens seamlessly blend with the green natural
   surroundings. The project encompasses only 40 apartments and 8 luxury
-  semi-detached villas spread across 9 south facing low-rise blocks.  This
-  luxury retreat is in Side’s most rapidly emerging neighbourhoods “Ilica”. On a
-  gently sloping site elevated 36 metres above sea level, it is outlined by
-  exquisite gardens designed to encourage an outdoor lifestyle where one can
-  experience and enjoy the true spirit of the Turkish Mediterranean – welcoming,
-  outdoor orientated, informal and tranquil.
-dateModified: '2016-08-07T11:55:41.027Z'
-datePublished: '2016-08-07T12:45:24.318Z'
+  semi-detached villas spread across 9 south facing low-rise blocks.This luxury
+  retreat is in Side’s most rapidly emerging neighbourhoods “Ilica”. On a gently
+  sloping site elevated 36 metres above sea level, it is outlined by exquisite
+  gardens designed to encourage an outdoor lifestyle where one can experience
+  and enjoy the true spirit of the Turkish Mediterranean – welcoming, outdoor
+  orientated, informal and tranquil.
+dateModified: '2016-08-07T12:55:41.340Z'
+datePublished: '2016-08-07T12:55:44.441Z'
 title: Exquisite living in a serene environment
 author: []
 publisher: {}
 via: {}
-starred: false
 sourcePath: _posts/2016-08-07-exquisite-living-in-a-serene-environment.md
-inFeed: true
-hasPage: false
-inNav: false
-_type: MediaObject
+hasPage: true
+starred: false
+url: exquisite-living-in-a-serene-environment/index.html
+_type: Blurb
 
 ---
 ![Elysium overview](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ef603b93-fce8-4d62-8247-830530a5ea35.jpg)

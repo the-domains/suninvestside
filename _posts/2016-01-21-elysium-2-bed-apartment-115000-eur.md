@@ -1,9 +1,15 @@
 ---
+datePublished: '2016-08-07T10:49:47.146Z'
+sourcePath: _posts/2016-01-21-elysium-2-bed-apartment-115000-eur.md
 inFeed: true
+authors: []
 hasPage: true
-inNav: false
-inLanguage: null
 keywords: []
+author: []
+via: {}
+dateModified: '2016-08-07T10:49:45.988Z'
+title: ELYSIUM APARTMENTS
+publisher: {}
 description: >-
   Elysium, which is located right next to our recently and successfully
   completed project Inspirit, is designed with an aspiration for excellence.
@@ -12,29 +18,23 @@ description: >-
   spaciousness. The landscaped gardens seamlessly blend with the green natural
   surroundings. The project encompasses only 40 apartments and 8 luxury
   semi-detached villas spread across 9 south facing low-rise blocks.
-datePublished: '2016-08-06T09:48:39.919Z'
-dateModified: '2016-08-06T09:39:32.184Z'
-title: ELYSIUM APARTMENTS
-author: []
-sourcePath: _posts/2016-01-21-elysium-2-bed-apartment-115000-eur.md
-authors: []
-publisher: {}
-via: {}
+inLanguage: null
+inNav: false
 starred: false
 url: elysium-2-bed-apartment-115000-eur/index.html
 _type: Article
 
 ---
 # ELYSIUM APARTMENTS
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/678ce508-7191-4f92-9638-b918fa50f08b.jpg)
 
 ### ELYSIUM PROPERTY DESCRIPTION
-
-### **INSPIRED BY A MEDITERRANEAN SPIRIT**
 
 Elysium, which is located right next to our recently and successfully completed project Inspirit, is designed with an aspiration for excellence. Planned on a large plot of land at 14,400 m² with only 22% building density utilized out of the permitted 25%, the project evokes a feeling of spaciousness. The landscaped gardens seamlessly blend with the green natural surroundings. The project encompasses only 40 apartments and 8 luxury semi-detached villas spread across 9 south facing low-rise blocks.
 
 This luxury retreat is in Side's most rapidly emerging neighborhoods "Ilica". On a gently sloping site elevated 36 meters above sea level, it is outlined by exquisite gardens designed to encourage an outdoor lifestyle where one can experience and enjoy the true spirit of the Turkish Mediterranean -- welcoming, outdoor orientated, informal and tranquil.
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/17e50e15-fcbb-4d50-ac88-b897c3527e2b.jpg)
+
+### **INSPIRED BY A MEDITERRANEAN SPIRIT**
 
 ### SOMETHING FOR EVERYONE...
 
@@ -67,14 +67,14 @@ The gardens of Elysium are surely one of the most outstanding features of this u
 The retaining walls will be covered by charming purple and white Bougainvillea flowers and will provide a colourful contrast against the contemporary facades. A beautiful orchard of mixed fruit trees including orange, lemon & peach will enhance the Mediterranean feeling. The Elysium Café will have a stylish terrace overlooking the pool where you can enjoy your cocktails. Parking will be near the two main entrances providing plenty of spaces for everyone.
 
 ### CONTACT US FOR MORE INFORMATION.
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/552bfe31-cb65-4d29-adac-cdcc34da2180.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/09260119-2f91-47fa-8914-1ec8b812f550.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/8e15aeeb-68f0-4005-8b11-9854dfdcedf3.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ec689a14-4f24-45fa-af53-e54889285064.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/2e613ab3-4e23-46f8-bf6c-a43b09d42279.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/121feb60-6b09-43d8-8e04-2b5bc86728e5.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/85ed0f50-78c6-4593-b9c3-73414d2dc25f.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/babb8ad8-a35f-4c69-aa9c-bc9bc70c0d37.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c2998a21-02a8-4141-9153-6a638b889b04.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/51eea909-bde0-45e3-b234-771744b3416f.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/65da6a59-4dda-44a2-8321-78a7e1cb7558.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/7faa84033bd9b1b4592c609c61507da539f0fcc7.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/77b4ca9009b35e532275051041d7bfe305b9d0a9.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/7002b183d5088b5151b24abce2c9aef076f9e89f.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/3521898894359926ec850382af4d0beaf220ebf8.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/ef5d5798cabee79edb3586155fa480a8f2dc95f8.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/af99164b04f36717830cb6c150ce39bb34e1011d.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/1ed05568ad6b60d7c48ea938b00c44fd94b01fb8.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/d40ccb63e1b2a28663858776b3a6abee5faf6c1a.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/7f1ec78ffa0490236c80a3ccbeb8685114d7ee50.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/3faff9afe7831030fc9bb7c3edfbc0686bc0063a.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/fd5def95577f86b660037a08dbdc9bfae7a45428.jpg)

@@ -34,6 +34,9 @@ navigation:
   - name: Apartments
     id: 79f34846-d120-4f99-a0b1-33bb7a907ae6
     type: content
+  - name: Elysium apartments & villa's
+    id: 9b3a097a-e82b-49e2-8a04-0292e685021c
+    type: content
 favicon: null
 title: 'Your real estate partner in the region of Side, Turkey.'
 description: '#Side #Turkey #SecondHome'

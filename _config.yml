@@ -31,6 +31,9 @@ navigation:
   - name: About Side
     id: 4b6c7588-4fe0-4e52-953d-bf9595c70b4a
     type: content
+  - name: Apartments
+    id: 79f34846-d120-4f99-a0b1-33bb7a907ae6
+    type: content
 favicon: null
 title: 'Your real estate partner in the region of Side, Turkey.'
 purpose: []

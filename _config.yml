@@ -28,6 +28,9 @@ navigation:
   - name: Who are we?
     id: 3d119fd0-5e29-4b43-a741-54887c17c2ff
     type: content
+  - name: About Side
+    id: 4b6c7588-4fe0-4e52-953d-bf9595c70b4a
+    type: content
 favicon: null
 title: 'Your real estate partner in the region of Side, Turkey.'
 purpose: []

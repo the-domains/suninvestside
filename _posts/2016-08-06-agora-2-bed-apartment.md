@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 2-bedroom apartment with 2 bathrooms of 99.5 m²
-datePublished: '2016-08-06T09:42:22.518Z'
-dateModified: '2016-08-06T09:41:56.985Z'
+datePublished: '2016-08-07T10:27:17.567Z'
+dateModified: '2016-08-07T10:27:17.370Z'
 title: ''
 author: []
 via: {}
